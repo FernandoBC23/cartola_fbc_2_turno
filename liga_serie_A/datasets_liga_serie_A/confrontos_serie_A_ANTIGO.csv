@@ -1,0 +1,191 @@
+Rodada,Confronto,Time A,Time B,ID A,ID B
+1,1,FBC Colorado,Tatols Beants F.C,6,15
+1,2,BORGES ITAQUI F.C.,Time do S.A.P.O,3,17
+1,3,Fedato Futebol Clube,OlhaEleAiF.C!,7,10
+1,4,Atlético Colorado 2021,Texas Club 2025,2,16
+1,5,Tabajara de Inhaua FC2,Analove10 ITAQUI GRANDE!!,14,1
+1,6,TIGRE LEON,Gremiomaniasm,13,8
+1,7,lsauer fc,cartola scheuer,19,18
+1,8,Rolo Compressor ZN,E.C. Bororé,11,4
+1,9,Eleis-Itaqui,seralex,5,20
+1,10,Grêmio imortal 37,SISO FC25,9,12
+2,1,TIGRE LEON,FBC Colorado,13,6
+2,2,OlhaEleAiF.C!,BORGES ITAQUI F.C.,10,3
+2,3,Time do S.A.P.O,Texas Club 2025,17,16
+2,4,Tatols Beants F.C,Fedato Futebol Clube,15,7
+2,5,Atlético Colorado 2021,Analove10 ITAQUI GRANDE!!,2,1
+2,6,lsauer fc,Tabajara de Inhaua FC2,19,14
+2,7,Gremiomaniasm,E.C. Bororé,8,4
+2,8,seralex,cartola scheuer,20,18
+2,9,SISO FC25,Rolo Compressor ZN,12,11
+2,10,Eleis-Itaqui,Grêmio imortal 37,5,9
+3,1,E.C. Bororé,FBC Colorado,4,6
+3,2,Texas Club 2025,BORGES ITAQUI F.C.,16,3
+3,3,Tatols Beants F.C,OlhaEleAiF.C!,15,10
+3,4,Time do S.A.P.O,Analove10 ITAQUI GRANDE!!,17,1
+3,5,Fedato Futebol Clube,TIGRE LEON,7,13
+3,6,Atlético Colorado 2021,lsauer fc,2,19
+3,7,Tabajara de Inhaua FC2,seralex,14,20
+3,8,SISO FC25,Gremiomaniasm,12,8
+3,9,Grêmio imortal 37,cartola scheuer,9,18
+3,10,Rolo Compressor ZN,Eleis-Itaqui,11,5
+4,1,SISO FC25,FBC Colorado,12,6
+4,2,BORGES ITAQUI F.C.,Tatols Beants F.C,3,15
+4,3,Texas Club 2025,Analove10 ITAQUI GRANDE!!,16,1
+4,4,OlhaEleAiF.C!,TIGRE LEON,10,13
+4,5,lsauer fc,Time do S.A.P.O,19,17
+4,6,E.C. Bororé,Fedato Futebol Clube,4,7
+4,7,seralex,Atlético Colorado 2021,20,2
+4,8,Grêmio imortal 37,Tabajara de Inhaua FC2,9,14
+4,9,Eleis-Itaqui,Gremiomaniasm,5,8
+4,10,cartola scheuer,Rolo Compressor ZN,18,11
+5,1,Eleis-Itaqui,FBC Colorado,5,6
+5,2,BORGES ITAQUI F.C.,Analove10 ITAQUI GRANDE!!,3,1
+5,3,Tatols Beants F.C,TIGRE LEON,15,13
+5,4,lsauer fc,Texas Club 2025,19,16
+5,5,OlhaEleAiF.C!,E.C. Bororé,10,4
+5,6,Time do S.A.P.O,seralex,17,20
+5,7,Fedato Futebol Clube,SISO FC25,7,12
+5,8,Grêmio imortal 37,Atlético Colorado 2021,9,2
+5,9,Rolo Compressor ZN,Tabajara de Inhaua FC2,11,14
+5,10,cartola scheuer,Gremiomaniasm,18,8
+6,1,cartola scheuer,FBC Colorado,18,6
+6,2,BORGES ITAQUI F.C.,TIGRE LEON,3,13
+6,3,Analove10 ITAQUI GRANDE!!,lsauer fc,1,19
+6,4,Tatols Beants F.C,E.C. Bororé,15,4
+6,5,Texas Club 2025,seralex,16,20
+6,6,OlhaEleAiF.C!,SISO FC25,10,12
+6,7,Grêmio imortal 37,Time do S.A.P.O,9,17
+6,8,Fedato Futebol Clube,Eleis-Itaqui,7,5
+6,9,Atlético Colorado 2021,Rolo Compressor ZN,2,11
+6,10,Gremiomaniasm,Tabajara de Inhaua FC2,8,14
+7,1,FBC Colorado,Tabajara de Inhaua FC2,6,14
+7,2,lsauer fc,BORGES ITAQUI F.C.,19,3
+7,3,TIGRE LEON,E.C. Bororé,13,4
+7,4,Analove10 ITAQUI GRANDE!!,seralex,1,20
+7,5,SISO FC25,Tatols Beants F.C,12,15
+7,6,Grêmio imortal 37,Texas Club 2025,9,16
+7,7,OlhaEleAiF.C!,Eleis-Itaqui,10,5
+7,8,Rolo Compressor ZN,Time do S.A.P.O,11,17
+7,9,cartola scheuer,Fedato Futebol Clube,18,7
+7,10,Gremiomaniasm,Atlético Colorado 2021,8,2
+8,1,FBC Colorado,Atlético Colorado 2021,6,2
+8,2,E.C. Bororé,BORGES ITAQUI F.C.,4,3
+8,3,seralex,lsauer fc,20,19
+8,4,SISO FC25,TIGRE LEON,12,13
+8,5,Grêmio imortal 37,Analove10 ITAQUI GRANDE!!,9,1
+8,6,Tatols Beants F.C,Eleis-Itaqui,15,5
+8,7,Rolo Compressor ZN,Texas Club 2025,11,16
+8,8,cartola scheuer,OlhaEleAiF.C!,18,10
+8,9,Gremiomaniasm,Time do S.A.P.O,8,17
+8,10,Fedato Futebol Clube,Tabajara de Inhaua FC2,7,14
+9,1,Time do S.A.P.O,FBC Colorado,17,6
+9,2,BORGES ITAQUI F.C.,seralex,3,20
+9,3,E.C. Bororé,SISO FC25,4,12
+9,4,lsauer fc,Grêmio imortal 37,19,9
+9,5,Eleis-Itaqui,TIGRE LEON,5,13
+9,6,Rolo Compressor ZN,Analove10 ITAQUI GRANDE!!,11,1
+9,7,Tatols Beants F.C,cartola scheuer,15,18
+9,8,Gremiomaniasm,Texas Club 2025,8,16
+9,9,OlhaEleAiF.C!,Tabajara de Inhaua FC2,10,14
+9,10,Fedato Futebol Clube,Atlético Colorado 2021,7,2
+10,1,Texas Club 2025,FBC Colorado,16,6
+10,2,SISO FC25,BORGES ITAQUI F.C.,12,3
+10,3,seralex,Grêmio imortal 37,20,9
+10,4,E.C. Bororé,Eleis-Itaqui,4,5
+10,5,Rolo Compressor ZN,lsauer fc,11,19
+10,6,cartola scheuer,TIGRE LEON,18,13
+10,7,Gremiomaniasm,Analove10 ITAQUI GRANDE!!,8,1
+10,8,Tabajara de Inhaua FC2,Tatols Beants F.C,14,15
+10,9,OlhaEleAiF.C!,Atlético Colorado 2021,10,2
+10,10,Time do S.A.P.O,Fedato Futebol Clube,17,7
+11,1,FBC Colorado,Analove10 ITAQUI GRANDE!!,6,1
+11,2,Gremiomaniasm,BORGES ITAQUI F.C.,8,3
+11,3,Eleis-Itaqui,SISO FC25,5,12
+11,4,seralex,Rolo Compressor ZN,20,11
+11,5,cartola scheuer,E.C. Bororé,18,4
+11,6,Gremiomaniasm,lsauer fc,8,19
+11,7,TIGRE LEON,Tabajara de Inhaua FC2,13,14
+11,8,Atlético Colorado 2021,Tatols Beants F.C,2,15
+11,9,Texas Club 2025,Fedato Futebol Clube,16,7
+11,10,Time do S.A.P.O,OlhaEleAiF.C!,17,10
+12,1,lsauer fc,FBC Colorado,19,6
+12,2,Eleis-Itaqui,BORGES ITAQUI F.C.,5,3
+12,3,Rolo Compressor ZN,Grêmio imortal 37,11,9
+12,4,cartola scheuer,SISO FC25,18,12
+12,5,seralex,Gremiomaniasm,20,8
+12,6,Tabajara de Inhaua FC2,E.C. Bororé,14,4
+12,7,Atlético Colorado 2021,TIGRE LEON,2,13
+12,8,Analove10 ITAQUI GRANDE!!,Fedato Futebol Clube,1,7
+12,9,Time do S.A.P.O,Tatols Beants F.C,17,15
+12,10,Texas Club 2025,OlhaEleAiF.C!,16,10
+13,1,FBC Colorado,seralex,6,20
+13,2,Rolo Compressor ZN,BORGES ITAQUI F.C.,11,3
+13,3,cartola scheuer,Eleis-Itaqui,18,5
+13,4,Gremiomaniasm,Grêmio imortal 37,8,9
+13,5,SISO FC25,Tabajara de Inhaua FC2,12,14
+13,6,Atlético Colorado 2021,E.C. Bororé,2,4
+13,7,Fedato Futebol Clube,lsauer fc,7,19
+13,8,TIGRE LEON,Time do S.A.P.O,13,17
+13,9,Analove10 ITAQUI GRANDE!!,OlhaEleAiF.C!,1,10
+13,10,Tatols Beants F.C,Texas Club 2025,15,16
+14,1,Grêmio imortal 37,FBC Colorado,9,6
+14,2,BORGES ITAQUI F.C.,cartola scheuer,3,18
+14,3,Rolo Compressor ZN,Gremiomaniasm,11,8
+14,4,Tabajara de Inhaua FC2,Eleis-Itaqui,14,5
+14,5,SISO FC25,Atlético Colorado 2021,12,2
+14,6,seralex,Fedato Futebol Clube,20,7
+14,7,Time do S.A.P.O,E.C. Bororé,17,4
+14,8,lsauer fc,OlhaEleAiF.C!,19,10
+14,9,TIGRE LEON,Texas Club 2025,13,16
+14,10,Tatols Beants F.C,Analove10 ITAQUI GRANDE!!,15,1
+15,1,FBC Colorado,Rolo Compressor ZN,6,11
+15,2,BORGES ITAQUI F.C.,Gremiomaniasm,3,8
+15,3,cartola scheuer,Tabajara de Inhaua FC2,18,14
+15,4,Atlético Colorado 2021,Eleis-Itaqui,2,5
+15,5,Fedato Futebol Clube,Grêmio imortal 37,7,9
+15,6,Time do S.A.P.O,SISO FC25,17,12
+15,7,OlhaEleAiF.C!,seralex,10,20
+15,8,Texas Club 2025,E.C. Bororé,16,4
+15,9,lsauer fc,Tatols Beants F.C,19,15
+15,10,TIGRE LEON,Analove10 ITAQUI GRANDE!!,13,1
+16,1,Gremiomaniasm,FBC Colorado,8,6
+16,2,BORGES ITAQUI F.C.,Tabajara de Inhaua FC2,3,14
+16,3,Atlético Colorado 2021,cartola scheuer,2,18
+16,4,Fedato Futebol Clube,Rolo Compressor ZN,7,11
+16,5,Eleis-Itaqui,Time do S.A.P.O,5,17
+16,6,Grêmio imortal 37,OlhaEleAiF.C!,9,10
+16,7,SISO FC25,Texas Club 2025,12,16
+16,8,Tatols Beants F.C,seralex,15,20
+16,9,Analove10 ITAQUI GRANDE!!,E.C. Bororé,1,4
+16,10,TIGRE LEON,lsauer fc,13,19
+17,1,BORGES ITAQUI F.C.,FBC Colorado,3,6
+17,2,Atlético Colorado 2021,Tabajara de Inhaua FC2,2,14
+17,3,Fedato Futebol Clube,Gremiomaniasm,7,8
+17,4,cartola scheuer,Time do S.A.P.O,18,17
+17,5,OlhaEleAiF.C!,Rolo Compressor ZN,10,11
+17,6,Texas Club 2025,Eleis-Itaqui,16,5
+17,7,Grêmio imortal 37,Tatols Beants F.C,9,15
+17,8,Analove10 ITAQUI GRANDE!!,SISO FC25,1,12
+17,9,seralex,TIGRE LEON,20,13
+17,10,E.C. Bororé,lsauer fc,4,19
+18,1,FBC Colorado,Fedato Futebol Clube,6,7
+18,2,BORGES ITAQUI F.C.,Atlético Colorado 2021,3,2
+18,3,Tabajara de Inhaua FC2,Time do S.A.P.O,14,17
+18,4,OlhaEleAiF.C!,Gremiomaniasm,10,8
+18,5,Texas Club 2025,cartola scheuer,16,18
+18,6,Tatols Beants F.C,Rolo Compressor ZN,15,11
+18,7,Analove10 ITAQUI GRANDE!!,Eleis-Itaqui,1,5
+18,8,Grêmio imortal 37,TIGRE LEON,9,13
+18,9,SISO FC25,lsauer fc,12,19
+18,10,E.C. Bororé,seralex,4,20
+19,1,OlhaEleAiF.C!,FBC Colorado,10,6
+19,2,Fedato Futebol Clube,BORGES ITAQUI F.C.,7,3
+19,3,Time do S.A.P.O,Atlético Colorado 2021,17,2
+19,4,Texas Club 2025,Tabajara de Inhaua FC2,16,14
+19,5,Tatols Beants F.C,Gremiomaniasm,15,8
+19,6,Analove10 ITAQUI GRANDE!!,cartola scheuer,1,18
+19,7,TIGRE LEON,Rolo Compressor ZN,13,11
+19,8,lsauer fc,Eleis-Itaqui,19,5
+19,9,E.C. Bororé,Grêmio imortal 37,4,9
+19,10,SISO FC25,seralex,12,20

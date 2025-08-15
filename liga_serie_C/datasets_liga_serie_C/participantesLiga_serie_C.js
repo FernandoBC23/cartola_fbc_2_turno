@@ -1,0 +1,22 @@
+window.participantesLiga = [
+  "cartola scheuer",
+  "DM Studio",
+  "Dom Camillo68",
+  "FBC Colorado",
+  "FC castelo Branco 2",
+  "Fedato Futebol Clube",
+  "Gremiomaniasm",
+  "HS SPORTS F.C",
+  "lsauer fc",
+  "MauHumor F.C.",
+  "Noah A 10",
+  "pra sempre imortal fc",
+  "pura bucha /botafogo",
+  "PÃO DE QUEIJO FC25",
+  "seralex",
+  "Tabajara de Inhaua PB7",
+  "TATITTA FC",
+  "Tatols Beants F.C",
+  "Texas Club 2025",
+  "TIGRE LEON"
+];

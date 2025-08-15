@@ -1,0 +1,191 @@
+Rodada,Confronto,Time A,Time B,ID A,ID B
+1,1,lsauer fc,FBC Colorado,18,5
+1,2,Real SCI,A Lenda Super Vasco F.c,12,1
+1,3,PUXE FC,Analove10 ITAQUI GRANDE!!,9,2
+1,4,Fedato Futebol Clube,cartola scheuer,6,17
+1,5,PraiaBravaFC,Sport Clube PAIM,11,13
+1,6,Texas Club 2025,Grêmio imortal 37,16,7
+1,7,BORGES CLIMA FUT F.C,Dom Camillo68,3,4
+1,8,HS SPORTS F.C,TIGRE LEON,8,14
+1,9,seralex,Tatols Beants F.C,20,15
+1,10,Pity10,pura bucha /botafogo,10,19
+2,1,A Lenda Super Vasco F.c,FBC Colorado,1,5
+2,2,Real SCI,PUXE FC,12,9
+2,3,Analove10 ITAQUI GRANDE!!,cartola scheuer,2,17
+2,4,Sport Clube PAIM,lsauer fc,13,18
+2,5,Texas Club 2025,Fedato Futebol Clube,16,6
+2,6,BORGES CLIMA FUT F.C,PraiaBravaFC,3,11
+2,7,Grêmio imortal 37,HS SPORTS F.C,7,8
+2,8,Tatols Beants F.C,Dom Camillo68,15,4
+2,9,TIGRE LEON,Pity10,14,10
+2,10,pura bucha /botafogo,seralex,19,20
+3,1,FBC Colorado,Real SCI,5,12
+3,2,cartola scheuer,PUXE FC,17,9
+3,3,Sport Clube PAIM,A Lenda Super Vasco F.c,13,1
+3,4,Texas Club 2025,Analove10 ITAQUI GRANDE!!,16,2
+3,5,lsauer fc,BORGES CLIMA FUT F.C,18,3
+3,6,HS SPORTS F.C,Fedato Futebol Clube,8,6
+3,7,Tatols Beants F.C,PraiaBravaFC,15,11
+3,8,Grêmio imortal 37,Pity10,7,10
+3,9,pura bucha /botafogo,Dom Camillo68,19,4
+3,10,seralex,TIGRE LEON,20,14
+4,1,FBC Colorado,Sport Clube PAIM,5,13
+4,2,cartola scheuer,Real SCI,17,12
+4,3,Texas Club 2025,PUXE FC,16,9
+4,4,BORGES CLIMA FUT F.C,A Lenda Super Vasco F.c,3,1
+4,5,Analove10 ITAQUI GRANDE!!,HS SPORTS F.C,2,8
+4,6,lsauer fc,Tatols Beants F.C,18,15
+4,7,Pity10,Fedato Futebol Clube,10,6
+4,8,pura bucha /botafogo,PraiaBravaFC,19,11
+4,9,Grêmio imortal 37,seralex,7,20
+4,10,TIGRE LEON,Dom Camillo68,14,4
+5,1,FBC Colorado,BORGES CLIMA FUT F.C,5,3
+5,2,Real SCI,Sport Clube PAIM,12,13
+5,3,cartola scheuer,Texas Club 2025,17,16
+5,4,HS SPORTS F.C,PUXE FC,8,9
+5,5,A Lenda Super Vasco F.c,Tatols Beants F.C,1,15
+5,6,Pity10,Analove10 ITAQUI GRANDE!!,10,2
+5,7,lsauer fc,pura bucha /botafogo,18,19
+5,8,seralex,Fedato Futebol Clube,20,6
+5,9,TIGRE LEON,PraiaBravaFC,14,11
+5,10,Grêmio imortal 37,Dom Camillo68,7,4
+6,1,Tatols Beants F.C,FBC Colorado,15,5
+6,2,Texas Club 2025,Real SCI,16,12
+6,3,BORGES CLIMA FUT F.C,Sport Clube PAIM,3,13
+6,4,cartola scheuer,HS SPORTS F.C,17,8
+6,5,Pity10,PUXE FC,10,9
+6,6,pura bucha /botafogo,A Lenda Super Vasco F.c,19,1
+6,7,seralex,Analove10 ITAQUI GRANDE!!,20,2
+6,8,TIGRE LEON,lsauer fc,14,18
+6,9,Dom Camillo68,Fedato Futebol Clube,4,6
+6,10,Grêmio imortal 37,PraiaBravaFC,7,11
+7,1,pura bucha /botafogo,FBC Colorado,19,5
+7,2,BORGES CLIMA FUT F.C,Real SCI,3,12
+7,3,Texas Club 2025,HS SPORTS F.C,16,8
+7,4,Sport Clube PAIM,Tatols Beants F.C,13,15
+7,5,Pity10,cartola scheuer,10,17
+7,6,seralex,PUXE FC,20,9
+7,7,A Lenda Super Vasco F.c,TIGRE LEON,1,14
+7,8,Analove10 ITAQUI GRANDE!!,Dom Camillo68,2,4
+7,9,Grêmio imortal 37,lsauer fc,7,18
+7,10,Fedato Futebol Clube,PraiaBravaFC,6,11
+8,1,FBC Colorado,TIGRE LEON,5,14
+8,2,Real SCI,HS SPORTS F.C,12,8
+8,3,BORGES CLIMA FUT F.C,Tatols Beants F.C,3,15
+8,4,Texas Club 2025,Pity10,16,10
+8,5,pura bucha /botafogo,Sport Clube PAIM,19,13
+8,6,seralex,cartola scheuer,20,17
+8,7,Dom Camillo68,PUXE FC,4,9
+8,8,A Lenda Super Vasco F.c,Grêmio imortal 37,1,7
+8,9,PraiaBravaFC,Analove10 ITAQUI GRANDE!!,11,2
+8,10,lsauer fc,Fedato Futebol Clube,18,6
+9,1,FBC Colorado,Grêmio imortal 37,5,7
+9,2,Tatols Beants F.C,Real SCI,15,12
+9,3,HS SPORTS F.C,Pity10,8,10
+9,4,BORGES CLIMA FUT F.C,pura bucha /botafogo,3,19
+9,5,Texas Club 2025,seralex,16,20
+9,6,Sport Clube PAIM,TIGRE LEON,13,14
+9,7,cartola scheuer,Dom Camillo68,17,4
+9,8,PUXE FC,PraiaBravaFC,9,11
+9,9,A Lenda Super Vasco F.c,Fedato Futebol Clube,1,6
+9,10,lsauer fc,Analove10 ITAQUI GRANDE!!,18,2
+10,1,Fedato Futebol Clube,FBC Colorado,6,5
+10,2,Pity10,Real SCI,10,12
+10,3,pura bucha /botafogo,Tatols Beants F.C,19,15
+10,4,seralex,HS SPORTS F.C,20,8
+10,5,TIGRE LEON,BORGES CLIMA FUT F.C,14,3
+10,6,Texas Club 2025,Dom Camillo68,16,4
+10,7,Grêmio imortal 37,Sport Clube PAIM,7,13
+10,8,cartola scheuer,PraiaBravaFC,17,11
+10,9,PUXE FC,lsauer fc,9,18
+10,10,Analove10 ITAQUI GRANDE!!,A Lenda Super Vasco F.c,2,1
+11,1,FBC Colorado,Analove10 ITAQUI GRANDE!!,5,2
+11,2,pura bucha /botafogo,Real SCI,19,12
+11,3,seralex,Pity10,20,10
+11,4,Tatols Beants F.C,TIGRE LEON,15,14
+11,5,HS SPORTS F.C,Dom Camillo68,8,4
+11,6,BORGES CLIMA FUT F.C,Grêmio imortal 37,3,7
+11,7,PraiaBravaFC,Texas Club 2025,11,16
+11,8,Fedato Futebol Clube,Sport Clube PAIM,6,13
+11,9,cartola scheuer,lsauer fc,17,18
+11,10,A Lenda Super Vasco F.c,PUXE FC,1,9
+12,1,FBC Colorado,PUXE FC,5,9
+12,2,Real SCI,seralex,12,20
+12,3,TIGRE LEON,pura bucha /botafogo,14,19
+12,4,Pity10,Dom Camillo68,10,4
+12,5,Tatols Beants F.C,Grêmio imortal 37,15,7
+12,6,HS SPORTS F.C,PraiaBravaFC,8,11
+12,7,Fedato Futebol Clube,BORGES CLIMA FUT F.C,6,3
+12,8,lsauer fc,Texas Club 2025,18,16
+12,9,Analove10 ITAQUI GRANDE!!,Sport Clube PAIM,2,13
+12,10,cartola scheuer,A Lenda Super Vasco F.c,17,1
+13,1,cartola scheuer,FBC Colorado,17,5
+13,2,TIGRE LEON,Real SCI,14,12
+13,3,seralex,Dom Camillo68,20,4
+13,4,Grêmio imortal 37,pura bucha /botafogo,7,19
+13,5,Pity10,PraiaBravaFC,10,11
+13,6,Tatols Beants F.C,Fedato Futebol Clube,15,6
+13,7,lsauer fc,HS SPORTS F.C,18,8
+13,8,Analove10 ITAQUI GRANDE!!,BORGES CLIMA FUT F.C,2,3
+13,9,Texas Club 2025,A Lenda Super Vasco F.c,16,1
+13,10,PUXE FC,Sport Clube PAIM,9,13
+14,1,FBC Colorado,Texas Club 2025,5,16
+14,2,Dom Camillo68,Real SCI,4,12
+14,3,Grêmio imortal 37,TIGRE LEON,7,14
+14,4,PraiaBravaFC,seralex,11,20
+14,5,Fedato Futebol Clube,pura bucha /botafogo,6,19
+14,6,lsauer fc,Pity10,18,10
+14,7,Analove10 ITAQUI GRANDE!!,Tatols Beants F.C,2,15
+14,8,A Lenda Super Vasco F.c,HS SPORTS F.C,1,8
+14,9,PUXE FC,BORGES CLIMA FUT F.C,9,3
+14,10,cartola scheuer,Sport Clube PAIM,17,13
+15,1,FBC Colorado,HS SPORTS F.C,5,8
+15,2,Grêmio imortal 37,Real SCI,7,12
+15,3,PraiaBravaFC,Dom Camillo68,11,4
+15,4,TIGRE LEON,Fedato Futebol Clube,14,6
+15,5,lsauer fc,seralex,18,20
+15,6,Analove10 ITAQUI GRANDE!!,pura bucha /botafogo,2,19
+15,7,A Lenda Super Vasco F.c,Pity10,1,10
+15,8,PUXE FC,Tatols Beants F.C,9,15
+15,9,cartola scheuer,BORGES CLIMA FUT F.C,17,3
+15,10,Texas Club 2025,Sport Clube PAIM,16,13
+16,1,FBC Colorado,Pity10,5,10
+16,2,PraiaBravaFC,Real SCI,11,12
+16,3,Fedato Futebol Clube,Grêmio imortal 37,6,7
+16,4,Dom Camillo68,lsauer fc,4,18
+16,5,TIGRE LEON,Analove10 ITAQUI GRANDE!!,14,2
+16,6,A Lenda Super Vasco F.c,seralex,1,20
+16,7,PUXE FC,pura bucha /botafogo,9,19
+16,8,Tatols Beants F.C,cartola scheuer,15,17
+16,9,Sport Clube PAIM,HS SPORTS F.C,13,8
+16,10,BORGES CLIMA FUT F.C,Texas Club 2025,3,16
+17,1,seralex,FBC Colorado,20,5
+17,2,Fedato Futebol Clube,Real SCI,6,12
+17,3,lsauer fc,PraiaBravaFC,18,11
+17,4,Analove10 ITAQUI GRANDE!!,Grêmio imortal 37,2,7
+17,5,A Lenda Super Vasco F.c,Dom Camillo68,1,4
+17,6,PUXE FC,TIGRE LEON,9,14
+17,7,cartola scheuer,pura bucha /botafogo,17,19
+17,8,Pity10,Sport Clube PAIM,10,13
+17,9,Texas Club 2025,Tatols Beants F.C,16,15
+17,10,BORGES CLIMA FUT F.C,HS SPORTS F.C,3,8
+18,1,Dom Camillo68,FBC Colorado,4,5
+18,2,Real SCI,lsauer fc,12,18
+18,3,Analove10 ITAQUI GRANDE!!,Fedato Futebol Clube,2,6
+18,4,PraiaBravaFC,A Lenda Super Vasco F.c,11,1
+18,5,Grêmio imortal 37,PUXE FC,7,9
+18,6,TIGRE LEON,cartola scheuer,14,17
+18,7,Sport Clube PAIM,seralex,13,20
+18,8,Texas Club 2025,pura bucha /botafogo,16,19
+18,9,BORGES CLIMA FUT F.C,Pity10,3,10
+18,10,HS SPORTS F.C,Tatols Beants F.C,8,15
+19,1,FBC Colorado,PraiaBravaFC,5,11
+19,2,Real SCI,Analove10 ITAQUI GRANDE!!,12,2
+19,3,lsauer fc,A Lenda Super Vasco F.c,18,1
+19,4,PUXE FC,Fedato Futebol Clube,9,6
+19,5,cartola scheuer,Grêmio imortal 37,17,7
+19,6,Dom Camillo68,Sport Clube PAIM,4,13
+19,7,Texas Club 2025,TIGRE LEON,16,14
+19,8,seralex,BORGES CLIMA FUT F.C,20,3
+19,9,pura bucha /botafogo,HS SPORTS F.C,19,8
+19,10,Tatols Beants F.C,Pity10,15,10

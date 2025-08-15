@@ -1,0 +1,51 @@
+Rodada,Confronto,Time A,Time B,ID A,ID B
+1,1,TIGRE LEON,Fedato Futebol Clube,12,5
+1,2,Tatols Beants F.C,Noah A 10,14,8
+1,3,A Lenda Super Vasco F.c,FIGUEIRA DA ILHA,1,4
+1,4,JV5 Tricolor Gaúcho,Tabajara de Inhaua FC2,6,13
+1,5,MauHumor F.C.,VASCO MARTINS FC,7,16
+1,6,Santo Ângelo United,TATITTA FC,10,11
+1,7,RHANKA DENTY FC25,Texas Club 2025,9,15
+1,8,pura bucha /botafogo,FC Los Castilho,19,2
+1,9,FC castelo Branco 2,pra sempre imortal fc,3,18
+1,10,lsauer fc,seralex,17,20
+2,1,TIGRE LEON,MauHumor F.C.,12,7
+2,2,Tatols Beants F.C,A Lenda Super Vasco F.c,14,1
+2,3,Noah A 10,Fedato Futebol Clube,8,5
+2,4,Tabajara de Inhaua FC2,FIGUEIRA DA ILHA,13,4
+2,5,Santo Ângelo United,JV5 Tricolor Gaúcho,10,6
+2,6,RHANKA DENTY FC25,VASCO MARTINS FC,9,16
+2,7,TATITTA FC,FC Los Castilho,11,2
+2,8,FC castelo Branco 2,Texas Club 2025,3,15
+2,9,lsauer fc,pura bucha /botafogo,17,19
+2,10,pra sempre imortal fc,seralex,18,20
+3,1,TIGRE LEON,RHANKA DENTY FC25,12,9
+3,2,Fedato Futebol Clube,Tatols Beants F.C,5,14
+3,3,Tabajara de Inhaua FC2,A Lenda Super Vasco F.c,13,1
+3,4,Noah A 10,MauHumor F.C.,8,7
+3,5,Santo Ângelo United,FIGUEIRA DA ILHA,10,4
+3,6,JV5 Tricolor Gaúcho,FC Los Castilho,6,2
+3,7,VASCO MARTINS FC,FC castelo Branco 2,16,3
+3,8,TATITTA FC,lsauer fc,11,17
+3,9,seralex,Texas Club 2025,20,15
+3,10,pura bucha /botafogo,pra sempre imortal fc,19,18
+4,1,FC castelo Branco 2,TIGRE LEON,3,12
+4,2,Tabajara de Inhaua FC2,Tatols Beants F.C,13,14
+4,3,Fedato Futebol Clube,MauHumor F.C.,5,7
+4,4,Santo Ângelo United,A Lenda Super Vasco F.c,10,1
+4,5,Noah A 10,RHANKA DENTY FC25,8,9
+4,6,FC Los Castilho,FIGUEIRA DA ILHA,2,4
+4,7,JV5 Tricolor Gaúcho,lsauer fc,6,17
+4,8,VASCO MARTINS FC,seralex,16,20
+4,9,pra sempre imortal fc,TATITTA FC,18,11
+4,10,Texas Club 2025,pura bucha /botafogo,15,19
+5,1,TIGRE LEON,seralex,12,20
+5,2,Tatols Beants F.C,MauHumor F.C.,14,7
+5,3,Tabajara de Inhaua FC2,Santo Ângelo United,13,10
+5,4,Fedato Futebol Clube,RHANKA DENTY FC25,5,9
+5,5,A Lenda Super Vasco F.c,FC Los Castilho,1,2
+5,6,Noah A 10,FC castelo Branco 2,8,3
+5,7,FIGUEIRA DA ILHA,lsauer fc,4,17
+5,8,JV5 Tricolor Gaúcho,pra sempre imortal fc,6,18
+5,9,pura bucha /botafogo,VASCO MARTINS FC,19,16
+5,10,TATITTA FC,Texas Club 2025,11,15

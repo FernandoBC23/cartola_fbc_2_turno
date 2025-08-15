@@ -1,0 +1,22 @@
+window.participantesLiga = [
+  "A Lenda Super Vasco F.c",
+  "Analove10 ITAQUI GRANDE!!",
+  "BORGES ITAQUI F.C.",
+  "cartola scheuer",
+  "DM Studio",
+  "Dom Camillo68",
+  "FBC Colorado",
+  "Fedato Futebol Clube",
+  "Gremiomaniasm",
+  "lsauer fc",
+  "MauHumor F.C.",
+  "pura bucha /botafogo",
+  "RHANKA DENTY FC25",
+  "Rolo Compressor ZN",
+  "seralex",
+  "Tatols Beants F.C",
+  "TEAM LOPES 99",
+  "Texas Club 2025",
+  "TIGRE LEON",
+  "Time do S.A.P.O"
+];

@@ -1,0 +1,1 @@
+const classificados_semi_sula = [];

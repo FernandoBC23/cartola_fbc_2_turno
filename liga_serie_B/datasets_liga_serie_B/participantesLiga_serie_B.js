@@ -1,0 +1,22 @@
+window.participantesLiga = [
+  "BORGES ITAQUI F.C.",
+  "cartola scheuer",
+  "Dom Camillo68",
+  "FBC Colorado",
+  "Fedato Futebol Clube",
+  "Gremiomaniasm",
+  "JV5 Tricolor Gaúcho",
+  "lsauer fc",
+  "MauHumor F.C.",
+  "Noah A 10",
+  "pura bucha /botafogo",
+  "PUXE FC",
+  "Real SCI",
+  "seralex",
+  "Sport Clube PAIM",
+  "Tabajara de Inhaua PB7",
+  "Tatols Beants F.C",
+  "Texas Club 2025",
+  "TIGRE LEON",
+  "TURNOLANDIA FC25"
+];

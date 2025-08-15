@@ -1,0 +1,51 @@
+Rodada,Confronto,Time A,Time B,ID A,ID B
+1,1,TEAM LOPES 99,TIGRE LEON,13,14
+1,2,Fedato Futebol Clube,Dom Camillo68,5,4
+1,3,Texas Club 2025,S.E.R. GRILLO,16,10
+1,4,HS SPORTS F.C,seralex,6,20
+1,5,Noah A 10,Cril Futebol Club,9,2
+1,6,cartola scheuer,SERGRILLO,17,11
+1,7,Tatols Beants F.C,Super Vasco f.c,15,12
+1,8,DM Studio,lsauer fc,3,18
+1,9,pura bucha /botafogo,ITAQUI F. C.,19,7
+1,10,BORGES CLIMA FUT F.C,KP JUV.,1,8
+2,1,cartola scheuer,TIGRE LEON,17,14
+2,2,Dom Camillo68,S.E.R. GRILLO,4,10
+2,3,Fedato Futebol Clube,HS SPORTS F.C,5,6
+2,4,Texas Club 2025,TEAM LOPES 99,16,13
+2,5,Noah A 10,seralex,9,20
+2,6,Cril Futebol Club,Super Vasco f.c,2,12
+2,7,SERGRILLO,lsauer fc,11,18
+2,8,pura bucha /botafogo,Tatols Beants F.C,19,15
+2,9,KP JUV.,DM Studio,8,3
+2,10,ITAQUI F. C.,BORGES CLIMA FUT F.C,7,1
+3,1,TIGRE LEON,lsauer fc,14,18
+3,2,Dom Camillo68,HS SPORTS F.C,4,6
+3,3,S.E.R. GRILLO,TEAM LOPES 99,10,13
+3,4,Noah A 10,Fedato Futebol Clube,9,5
+3,5,cartola scheuer,Texas Club 2025,17,16
+3,6,Super Vasco f.c,seralex,12,20
+3,7,Cril Futebol Club,pura bucha /botafogo,2,19
+3,8,KP JUV.,SERGRILLO,8,11
+3,9,BORGES CLIMA FUT F.C,Tatols Beants F.C,1,15
+3,10,ITAQUI F. C.,DM Studio,7,3
+4,1,TIGRE LEON,KP JUV.,14,8
+4,2,TEAM LOPES 99,Dom Camillo68,13,4
+4,3,Noah A 10,HS SPORTS F.C,9,6
+4,4,cartola scheuer,S.E.R. GRILLO,17,10
+4,5,Super Vasco f.c,Fedato Futebol Clube,12,5
+4,6,lsauer fc,Texas Club 2025,18,16
+4,7,seralex,pura bucha /botafogo,20,19
+4,8,Cril Futebol Club,BORGES CLIMA FUT F.C,2,1
+4,9,ITAQUI F. C.,SERGRILLO,7,11
+4,10,DM Studio,Tatols Beants F.C,3,15
+5,1,ITAQUI F. C.,TIGRE LEON,7,14
+5,2,Dom Camillo68,Noah A 10,4,9
+5,3,TEAM LOPES 99,cartola scheuer,13,17
+5,4,Super Vasco f.c,HS SPORTS F.C,12,6
+5,5,S.E.R. GRILLO,lsauer fc,10,18
+5,6,pura bucha /botafogo,Fedato Futebol Clube,19,5
+5,7,Texas Club 2025,KP JUV.,16,8
+5,8,seralex,BORGES CLIMA FUT F.C,20,1
+5,9,DM Studio,Cril Futebol Club,3,2
+5,10,SERGRILLO,Tatols Beants F.C,11,15

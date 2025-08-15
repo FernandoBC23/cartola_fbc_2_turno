@@ -1,0 +1,1 @@
+const pontuacoesTimes = [{"time_id":1,"time_nome":"Time Alpha","pontuacao_time":0.0},{"time_id":2,"time_nome":"Time Beta","pontuacao_time":0.0}];
