@@ -1,34 +1,12 @@
 const rankingTop5Mensal = [
   {
-    "time": "CosmoCity ZO",
-    "pontos": 20,
-    "aparicoes": 1,
-    "posicoes": [
-      {
-        "mes": "Agosto",
-        "posicao": 4
-      }
-    ]
-  },
-  {
-    "time": "Laranjja Mecannica",
+    "time": "FBC Colorado II",
     "pontos": 40,
     "aparicoes": 1,
     "posicoes": [
       {
         "mes": "Agosto",
         "posicao": 2
-      }
-    ]
-  },
-  {
-    "time": "FBC Colorado",
-    "pontos": 30,
-    "aparicoes": 1,
-    "posicoes": [
-      {
-        "mes": "Agosto",
-        "posicao": 3
       }
     ]
   },
@@ -44,7 +22,29 @@ const rankingTop5Mensal = [
     ]
   },
   {
-    "time": "HS SPORTS F.C",
+    "time": "Laranjja Mecannica",
+    "pontos": 30,
+    "aparicoes": 1,
+    "posicoes": [
+      {
+        "mes": "Agosto",
+        "posicao": 3
+      }
+    ]
+  },
+  {
+    "time": "FBC Colorado",
+    "pontos": 20,
+    "aparicoes": 1,
+    "posicoes": [
+      {
+        "mes": "Agosto",
+        "posicao": 4
+      }
+    ]
+  },
+  {
+    "time": "CosmoCity ZO",
     "pontos": 10,
     "aparicoes": 1,
     "posicoes": [

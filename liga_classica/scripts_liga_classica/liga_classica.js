@@ -2,6 +2,7 @@
 // DICIONÁRIO DOS ESCUDOS
 const escudosTimes = {
   "FBC Colorado": "../imagens/2_fbc_colorado.png",
+  "FBC Colorado II":"../imagens/2_fbc_colorado_II.png",
   "Texas Club 2025": "../imagens/2_texas_club_2025.png",
   "Real SCI": "../imagens/2_real_sci.png",
   "Gig@ntte": "../imagens/2_gigntte.png",
@@ -67,7 +68,7 @@ const escudosTimes = {
   "Noah A 10": "../imagens/2_noah_a_10.png",
   "teves_futsal20 f.c": "../imagens/2_teves_futsal20_fc.png",
   "Rolo Compressor  ZN": "../imagens/2_rolo_compressor_zn.png",
-  "Luis lemes  inter": "../imagens/2_luis_lemes_inter.png",
+  "Luis lemes inter": "../imagens/2_luis_lemes_inter.png",
   "C.A. Charru@": "../imagens/2_c_a_charrua.png"
 };
 
