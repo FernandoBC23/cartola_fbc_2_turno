@@ -1,17 +1,6 @@
 const rankingTop5Mensal = [
   {
-    "time": "FBC Colorado II",
-    "pontos": 40,
-    "aparicoes": 1,
-    "posicoes": [
-      {
-        "mes": "Agosto",
-        "posicao": 2
-      }
-    ]
-  },
-  {
-    "time": "TEAM LOPES 99",
+    "time": "HS SPORTS F.C",
     "pontos": 50,
     "aparicoes": 1,
     "posicoes": [
@@ -22,7 +11,7 @@ const rankingTop5Mensal = [
     ]
   },
   {
-    "time": "Laranjja Mecannica",
+    "time": "TEAM LOPES 99",
     "pontos": 30,
     "aparicoes": 1,
     "posicoes": [
@@ -33,7 +22,7 @@ const rankingTop5Mensal = [
     ]
   },
   {
-    "time": "FBC Colorado",
+    "time": "FBC Colorado II",
     "pontos": 20,
     "aparicoes": 1,
     "posicoes": [
@@ -44,13 +33,24 @@ const rankingTop5Mensal = [
     ]
   },
   {
-    "time": "CosmoCity ZO",
+    "time": "Laranjja Mecannica",
     "pontos": 10,
     "aparicoes": 1,
     "posicoes": [
       {
         "mes": "Agosto",
         "posicao": 5
+      }
+    ]
+  },
+  {
+    "time": "Profit Soccer",
+    "pontos": 40,
+    "aparicoes": 1,
+    "posicoes": [
+      {
+        "mes": "Agosto",
+        "posicao": 2
       }
     ]
   }
