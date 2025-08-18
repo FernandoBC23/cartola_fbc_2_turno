@@ -4,11 +4,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
+      "pontos": 53.26
     },
     "visitante": {
       "nome": "FBC Colorado",
-      "pontos": null
+      "pontos": 38.36
     }
   },
   {
@@ -16,11 +16,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "Tatols Beants F.C",
-      "pontos": null
+      "pontos": 55.71
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 53.66
     }
   },
   {
@@ -28,11 +28,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "PUXE FC",
-      "pontos": null
+      "pontos": 38.36
     },
     "visitante": {
       "nome": "pura bucha /botafogo",
-      "pontos": null
+      "pontos": 52.81
     }
   },
   {
@@ -40,11 +40,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 31.76
     },
     "visitante": {
       "nome": "Fedato Futebol Clube",
-      "pontos": null
+      "pontos": 47.36
     }
   },
   {
@@ -52,11 +52,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "TURNOLANDIA FC25",
-      "pontos": null
+      "pontos": 52.33
     },
     "visitante": {
       "nome": "cartola scheuer",
-      "pontos": null
+      "pontos": 47.36
     }
   },
   {
@@ -64,11 +64,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "seralex",
-      "pontos": null
+      "pontos": 45.26
     },
     "visitante": {
       "nome": "Dom Camillo68",
-      "pontos": null
+      "pontos": 23.4
     }
   },
   {
@@ -76,11 +76,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "JV5 Tricolor Gaúcho",
-      "pontos": null
+      "pontos": 55.71
     },
     "visitante": {
       "nome": "Tabajara de Inhaua PB7",
-      "pontos": null
+      "pontos": 39.73
     }
   },
   {
@@ -88,11 +88,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "Gremiomaniasm",
-      "pontos": null
+      "pontos": 29.76
     },
     "visitante": {
       "nome": "MauHumor F.C.",
-      "pontos": null
+      "pontos": 37.81
     }
   },
   {
@@ -100,11 +100,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "Sport Clube PAIM",
-      "pontos": null
+      "pontos": 56.16
     },
     "visitante": {
       "nome": "TIGRE LEON",
-      "pontos": null
+      "pontos": 29.86
     }
   },
   {
@@ -112,11 +112,11 @@ const resultadosFase1 = [
     "rodada": 1,
     "mandante": {
       "nome": "Real SCI",
-      "pontos": null
+      "pontos": 44.86
     },
     "visitante": {
       "nome": "Noah A 10",
-      "pontos": null
+      "pontos": 37.94
     }
   },
   {
