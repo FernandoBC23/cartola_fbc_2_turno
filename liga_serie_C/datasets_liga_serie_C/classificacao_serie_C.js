@@ -1,26 +1,15 @@
 const classificacaoSerieC = {
   "Série C": [
     {
-      "nome": "HS SPORTS F.C",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 60.86,
-      "cartolaSofrido": 29.76,
-      "saldoCartola": 31.1,
-      "posicao": 1
-    },
-    {
       "nome": "Tatols Beants F.C",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 55.71,
-      "cartolaSofrido": 37.36,
-      "saldoCartola": 18.35,
-      "posicao": 2
+      "totalCartola": 85.85986328125,
+      "cartolaSofrido": 71.06005859375,
+      "saldoCartola": 14.7998046875,
+      "posicao": 1
     },
     {
       "nome": "Texas Club 2025",
@@ -28,21 +17,21 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 53.66,
-      "cartolaSofrido": 37.94,
-      "saldoCartola": 15.72,
-      "posicao": 3
+      "totalCartola": 84.4599609375,
+      "cartolaSofrido": 69.39013671875,
+      "saldoCartola": 15.06982421875,
+      "posicao": 2
     },
     {
-      "nome": "pura bucha /botafogo",
+      "nome": "HS SPORTS F.C",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 52.81,
-      "cartolaSofrido": 32.01,
-      "saldoCartola": 20.800000000000004,
-      "posicao": 4
+      "totalCartola": 79.9599609375,
+      "cartolaSofrido": 53.260009765625,
+      "saldoCartola": 26.699951171875,
+      "posicao": 3
     },
     {
       "nome": "PÃO DE QUEIJO FC25",
@@ -50,9 +39,20 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 52.33,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": 4.969999999999999,
+      "totalCartola": 78.93017578125,
+      "cartolaSofrido": 73.9599609375,
+      "saldoCartola": 4.97021484375,
+      "posicao": 4
+    },
+    {
+      "nome": "pura bucha /botafogo",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 75.60986328125,
+      "cartolaSofrido": 63.06005859375,
+      "saldoCartola": 12.5498046875,
       "posicao": 5
     },
     {
@@ -61,9 +61,9 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 37.81,
-      "saldoCartola": 9.549999999999995,
+      "totalCartola": 74.41015625,
+      "cartolaSofrido": 70.35986328125,
+      "saldoCartola": 4.05029296875,
       "posicao": 6
     },
     {
@@ -72,9 +72,9 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 45.26,
-      "cartolaSofrido": 38.36,
-      "saldoCartola": 6.899999999999999,
+      "totalCartola": 70.81005859375,
+      "cartolaSofrido": 59.659912109375,
+      "saldoCartola": 11.150146484375,
       "posicao": 7
     },
     {
@@ -83,20 +83,20 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 39.73,
-      "cartolaSofrido": 31.76,
-      "saldoCartola": 7.969999999999995,
+      "totalCartola": 66.330078125,
+      "cartolaSofrido": 62.56005859375,
+      "saldoCartola": 3.77001953125,
       "posicao": 8
     },
     {
-      "nome": "DM Studio",
+      "nome": "Dom Camillo68",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 37.01,
-      "cartolaSofrido": 23.4,
-      "saldoCartola": 13.61,
+      "totalCartola": 64.91015625,
+      "cartolaSofrido": 46.7099609375,
+      "saldoCartola": 18.2001953125,
       "posicao": 9
     },
     {
@@ -105,9 +105,9 @@ const classificacaoSerieC = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 35.56,
-      "cartolaSofrido": 29.86,
-      "saldoCartola": 5.700000000000003,
+      "totalCartola": 62.159912109375,
+      "cartolaSofrido": 62.06005859375,
+      "saldoCartola": 0.099853515625,
       "posicao": 10
     },
     {
@@ -116,43 +116,10 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 52.33,
-      "saldoCartola": -4.969999999999999,
+      "totalCartola": 73.9599609375,
+      "cartolaSofrido": 78.93017578125,
+      "saldoCartola": -4.97021484375,
       "posicao": 11
-    },
-    {
-      "nome": "FBC Colorado",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 38.36,
-      "cartolaSofrido": 45.26,
-      "saldoCartola": -6.899999999999999,
-      "posicao": 12
-    },
-    {
-      "nome": "Noah A 10",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 37.94,
-      "cartolaSofrido": 53.66,
-      "saldoCartola": -15.72,
-      "posicao": 13
-    },
-    {
-      "nome": "MauHumor F.C.",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 37.81,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": -9.549999999999995,
-      "posicao": 14
     },
     {
       "nome": "pra sempre imortal fc",
@@ -160,10 +127,32 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 37.36,
-      "cartolaSofrido": 55.71,
-      "saldoCartola": -18.35,
-      "posicao": 15
+      "totalCartola": 71.06005859375,
+      "cartolaSofrido": 85.85986328125,
+      "saldoCartola": -14.7998046875,
+      "posicao": 12
+    },
+    {
+      "nome": "MauHumor F.C.",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 70.35986328125,
+      "cartolaSofrido": 74.41015625,
+      "saldoCartola": -4.05029296875,
+      "posicao": 13
+    },
+    {
+      "nome": "Noah A 10",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 69.39013671875,
+      "cartolaSofrido": 84.4599609375,
+      "saldoCartola": -15.06982421875,
+      "posicao": 14
     },
     {
       "nome": "FC castelo Branco 2",
@@ -171,10 +160,10 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 32.01,
-      "cartolaSofrido": 52.81,
-      "saldoCartola": -20.800000000000004,
-      "posicao": 16
+      "totalCartola": 63.06005859375,
+      "cartolaSofrido": 75.60986328125,
+      "saldoCartola": -12.5498046875,
+      "posicao": 15
     },
     {
       "nome": "lsauer fc",
@@ -182,10 +171,10 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 31.76,
-      "cartolaSofrido": 39.73,
-      "saldoCartola": -7.969999999999995,
-      "posicao": 17
+      "totalCartola": 62.56005859375,
+      "cartolaSofrido": 66.330078125,
+      "saldoCartola": -3.77001953125,
+      "posicao": 16
     },
     {
       "nome": "TIGRE LEON",
@@ -193,9 +182,20 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 29.86,
-      "cartolaSofrido": 35.56,
-      "saldoCartola": -5.700000000000003,
+      "totalCartola": 62.06005859375,
+      "cartolaSofrido": 62.159912109375,
+      "saldoCartola": -0.099853515625,
+      "posicao": 17
+    },
+    {
+      "nome": "FBC Colorado",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 59.659912109375,
+      "cartolaSofrido": 70.81005859375,
+      "saldoCartola": -11.150146484375,
       "posicao": 18
     },
     {
@@ -204,20 +204,20 @@ const classificacaoSerieC = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 29.76,
-      "cartolaSofrido": 60.86,
-      "saldoCartola": -31.1,
+      "totalCartola": 53.260009765625,
+      "cartolaSofrido": 79.9599609375,
+      "saldoCartola": -26.699951171875,
       "posicao": 19
     },
     {
-      "nome": "Dom Camillo68",
+      "nome": "DM Studio",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 23.4,
-      "cartolaSofrido": 37.01,
-      "saldoCartola": -13.61,
+      "totalCartola": 46.7099609375,
+      "cartolaSofrido": 64.91015625,
+      "saldoCartola": -18.2001953125,
       "posicao": 20
     }
   ]

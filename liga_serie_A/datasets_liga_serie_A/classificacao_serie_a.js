@@ -1,37 +1,15 @@
 const classificacaoSerieA = {
   "Série A": [
     {
-      "nome": "Time do S.A.P.O",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 59.85,
-      "cartolaSofrido": 23.4,
-      "saldoCartola": 36.45,
-      "posicao": 1
-    },
-    {
-      "nome": "A Lenda Super Vasco F.c",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 56.53,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": 9.170000000000002,
-      "posicao": 2
-    },
-    {
       "nome": "Tatols Beants F.C",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 55.71,
-      "cartolaSofrido": 37.81,
-      "saldoCartola": 17.9,
-      "posicao": 3
+      "totalCartola": 85.85986328125,
+      "cartolaSofrido": 70.35986328125,
+      "saldoCartola": 15.5,
+      "posicao": 1
     },
     {
       "nome": "Texas Club 2025",
@@ -39,9 +17,31 @@ const classificacaoSerieA = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 53.66,
-      "cartolaSofrido": 52.81,
-      "saldoCartola": 0.8499999999999943,
+      "totalCartola": 84.4599609375,
+      "cartolaSofrido": 75.60986328125,
+      "saldoCartola": 8.85009765625,
+      "posicao": 2
+    },
+    {
+      "nome": "Time do S.A.P.O",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 80.9501953125,
+      "cartolaSofrido": 64.91015625,
+      "saldoCartola": 16.0400390625,
+      "posicao": 3
+    },
+    {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 78.93017578125,
+      "cartolaSofrido": 62.56005859375,
+      "saldoCartola": 16.3701171875,
       "posicao": 4
     },
     {
@@ -50,20 +50,20 @@ const classificacaoSerieA = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 53.26,
-      "cartolaSofrido": 47.81,
-      "saldoCartola": 5.449999999999996,
+      "totalCartola": 76.06005859375,
+      "cartolaSofrido": 69.10009765625,
+      "saldoCartola": 6.9599609375,
       "posicao": 5
     },
     {
-      "nome": "RHANKA DENTY FC25",
+      "nome": "Fedato Futebol Clube",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 52.33,
-      "cartolaSofrido": 31.76,
-      "saldoCartola": 20.57,
+      "totalCartola": 74.41015625,
+      "cartolaSofrido": 66.0498046875,
+      "saldoCartola": 8.3603515625,
       "posicao": 6
     },
     {
@@ -72,9 +72,9 @@ const classificacaoSerieA = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 45.26,
-      "saldoCartola": 2.1000000000000014,
+      "totalCartola": 73.9599609375,
+      "cartolaSofrido": 70.81005859375,
+      "saldoCartola": 3.14990234375,
       "posicao": 7
     },
     {
@@ -83,20 +83,20 @@ const classificacaoSerieA = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 40.21,
-      "cartolaSofrido": 38.36,
-      "saldoCartola": 1.8500000000000012,
+      "totalCartola": 70.56005859375,
+      "cartolaSofrido": 59.659912109375,
+      "saldoCartola": 10.900146484375,
       "posicao": 8
     },
     {
-      "nome": "DM Studio",
+      "nome": "TEAM LOPES 99",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 37.01,
-      "cartolaSofrido": 36.96,
-      "saldoCartola": 0.0499999999999971,
+      "totalCartola": 68.25,
+      "cartolaSofrido": 46.7099609375,
+      "saldoCartola": 21.5400390625,
       "posicao": 9
     },
     {
@@ -105,9 +105,9 @@ const classificacaoSerieA = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 29.86,
-      "cartolaSofrido": 29.76,
-      "saldoCartola": 0.0999999999999978,
+      "totalCartola": 62.06005859375,
+      "cartolaSofrido": 53.260009765625,
+      "saldoCartola": 8.800048828125,
       "posicao": 10
     },
     {
@@ -116,32 +116,10 @@ const classificacaoSerieA = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 52.81,
-      "cartolaSofrido": 53.66,
-      "saldoCartola": -0.8499999999999943,
+      "totalCartola": 75.60986328125,
+      "cartolaSofrido": 84.4599609375,
+      "saldoCartola": -8.85009765625,
       "posicao": 11
-    },
-    {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 47.81,
-      "cartolaSofrido": 53.26,
-      "saldoCartola": -5.449999999999996,
-      "posicao": 12
-    },
-    {
-      "nome": "Fedato Futebol Clube",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 56.53,
-      "saldoCartola": -9.170000000000002,
-      "posicao": 13
     },
     {
       "nome": "seralex",
@@ -149,21 +127,10 @@ const classificacaoSerieA = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 45.26,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": -2.1000000000000014,
-      "posicao": 14
-    },
-    {
-      "nome": "FBC Colorado",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 38.36,
-      "cartolaSofrido": 40.21,
-      "saldoCartola": -1.8500000000000012,
-      "posicao": 15
+      "totalCartola": 70.81005859375,
+      "cartolaSofrido": 73.9599609375,
+      "saldoCartola": -3.14990234375,
+      "posicao": 12
     },
     {
       "nome": "MauHumor F.C.",
@@ -171,21 +138,43 @@ const classificacaoSerieA = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 37.81,
-      "cartolaSofrido": 55.71,
-      "saldoCartola": -17.9,
-      "posicao": 16
+      "totalCartola": 70.35986328125,
+      "cartolaSofrido": 85.85986328125,
+      "saldoCartola": -15.5,
+      "posicao": 13
     },
     {
-      "nome": "TEAM LOPES 99",
+      "nome": "Analove10 ITAQUI GRANDE!!",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 36.96,
-      "cartolaSofrido": 37.01,
-      "saldoCartola": -0.0499999999999971,
-      "posicao": 17
+      "totalCartola": 69.10009765625,
+      "cartolaSofrido": 76.06005859375,
+      "saldoCartola": -6.9599609375,
+      "posicao": 14
+    },
+    {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 66.0498046875,
+      "cartolaSofrido": 74.41015625,
+      "saldoCartola": -8.3603515625,
+      "posicao": 15
+    },
+    {
+      "nome": "Dom Camillo68",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 64.91015625,
+      "cartolaSofrido": 80.9501953125,
+      "saldoCartola": -16.0400390625,
+      "posicao": 16
     },
     {
       "nome": "lsauer fc",
@@ -193,9 +182,20 @@ const classificacaoSerieA = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 31.76,
-      "cartolaSofrido": 52.33,
-      "saldoCartola": -20.57,
+      "totalCartola": 62.56005859375,
+      "cartolaSofrido": 78.93017578125,
+      "saldoCartola": -16.3701171875,
+      "posicao": 17
+    },
+    {
+      "nome": "FBC Colorado",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 59.659912109375,
+      "cartolaSofrido": 70.56005859375,
+      "saldoCartola": -10.900146484375,
       "posicao": 18
     },
     {
@@ -204,20 +204,20 @@ const classificacaoSerieA = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 29.76,
-      "cartolaSofrido": 29.86,
-      "saldoCartola": -0.0999999999999978,
+      "totalCartola": 53.260009765625,
+      "cartolaSofrido": 62.06005859375,
+      "saldoCartola": -8.800048828125,
       "posicao": 19
     },
     {
-      "nome": "Dom Camillo68",
+      "nome": "DM Studio",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 23.4,
-      "cartolaSofrido": 59.85,
-      "saldoCartola": -36.45,
+      "totalCartola": 46.7099609375,
+      "cartolaSofrido": 68.25,
+      "saldoCartola": -21.5400390625,
       "posicao": 20
     }
   ]

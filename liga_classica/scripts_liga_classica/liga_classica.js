@@ -69,7 +69,7 @@ const escudosTimes = {
   "teves_futsal20 f.c": "../imagens/2_teves_futsal20_fc.png",
   "Rolo Compressor  ZN": "../imagens/2_rolo_compressor_zn.png",
   "Luis lemes inter": "../imagens/2_luis_lemes_inter.png",
-  "C.A. Charru@": "../imagens/2_c_a_charrua.png"
+  "C.A. Charru@": "../imagens/2_ca_charrua.png"
 };
 
 document.addEventListener("DOMContentLoaded", () => {

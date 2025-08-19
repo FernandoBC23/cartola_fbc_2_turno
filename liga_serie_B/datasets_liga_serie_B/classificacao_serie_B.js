@@ -1,14 +1,14 @@
 const classificacaoSerieB = {
   "Série B": [
     {
-      "nome": "Sport Clube PAIM",
+      "nome": "Tatols Beants F.C",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 56.16,
-      "cartolaSofrido": 29.86,
-      "saldoCartola": 26.3,
+      "totalCartola": 85.85986328125,
+      "cartolaSofrido": 84.4599609375,
+      "saldoCartola": 1.39990234375,
       "posicao": 1
     },
     {
@@ -17,43 +17,10 @@ const classificacaoSerieB = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 55.71,
-      "cartolaSofrido": 39.73,
-      "saldoCartola": 15.980000000000004,
+      "totalCartola": 81.4599609375,
+      "cartolaSofrido": 66.330078125,
+      "saldoCartola": 15.1298828125,
       "posicao": 2
-    },
-    {
-      "nome": "Tatols Beants F.C",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 55.71,
-      "cartolaSofrido": 53.66,
-      "saldoCartola": 2.0500000000000043,
-      "posicao": 3
-    },
-    {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 53.26,
-      "cartolaSofrido": 38.36,
-      "saldoCartola": 14.9,
-      "posicao": 4
-    },
-    {
-      "nome": "pura bucha /botafogo",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 52.81,
-      "cartolaSofrido": 38.36,
-      "saldoCartola": 14.450000000000005,
-      "posicao": 5
     },
     {
       "nome": "TURNOLANDIA FC25",
@@ -61,10 +28,32 @@ const classificacaoSerieB = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 52.33,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": 4.969999999999999,
-      "posicao": 6
+      "totalCartola": 78.93017578125,
+      "cartolaSofrido": 73.9599609375,
+      "saldoCartola": 4.97021484375,
+      "posicao": 3
+    },
+    {
+      "nome": "PUXE FC",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 76.509765625,
+      "cartolaSofrido": 75.60986328125,
+      "saldoCartola": 0.89990234375,
+      "posicao": 4
+    },
+    {
+      "nome": "BORGES ITAQUI F.C.",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 76.06005859375,
+      "cartolaSofrido": 59.659912109375,
+      "saldoCartola": 16.400146484375,
+      "posicao": 5
     },
     {
       "nome": "Fedato Futebol Clube",
@@ -72,9 +61,20 @@ const classificacaoSerieB = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 31.76,
-      "saldoCartola": 15.599999999999998,
+      "totalCartola": 74.41015625,
+      "cartolaSofrido": 62.56005859375,
+      "saldoCartola": 11.85009765625,
+      "posicao": 6
+    },
+    {
+      "nome": "Sport Clube PAIM",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 73.35986328125,
+      "cartolaSofrido": 62.06005859375,
+      "saldoCartola": 11.2998046875,
       "posicao": 7
     },
     {
@@ -83,21 +83,10 @@ const classificacaoSerieB = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 45.26,
-      "cartolaSofrido": 23.4,
-      "saldoCartola": 21.86,
+      "totalCartola": 70.81005859375,
+      "cartolaSofrido": 64.91015625,
+      "saldoCartola": 5.89990234375,
       "posicao": 8
-    },
-    {
-      "nome": "Real SCI",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 44.86,
-      "cartolaSofrido": 37.94,
-      "saldoCartola": 6.920000000000002,
-      "posicao": 9
     },
     {
       "nome": "MauHumor F.C.",
@@ -105,9 +94,20 @@ const classificacaoSerieB = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 37.81,
-      "cartolaSofrido": 29.76,
-      "saldoCartola": 8.05,
+      "totalCartola": 70.35986328125,
+      "cartolaSofrido": 53.260009765625,
+      "saldoCartola": 17.099853515625,
+      "posicao": 9
+    },
+    {
+      "nome": "Noah A 10",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 0,
+      "totalCartola": 69.39013671875,
+      "cartolaSofrido": 63.9599609375,
+      "saldoCartola": 5.43017578125,
       "posicao": 10
     },
     {
@@ -116,10 +116,21 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 53.66,
-      "cartolaSofrido": 55.71,
-      "saldoCartola": -2.0500000000000043,
+      "totalCartola": 84.4599609375,
+      "cartolaSofrido": 85.85986328125,
+      "saldoCartola": -1.39990234375,
       "posicao": 11
+    },
+    {
+      "nome": "pura bucha /botafogo",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 75.60986328125,
+      "cartolaSofrido": 76.509765625,
+      "saldoCartola": -0.89990234375,
+      "posicao": 12
     },
     {
       "nome": "cartola scheuer",
@@ -127,10 +138,10 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 47.36,
-      "cartolaSofrido": 52.33,
-      "saldoCartola": -4.969999999999999,
-      "posicao": 12
+      "totalCartola": 73.9599609375,
+      "cartolaSofrido": 78.93017578125,
+      "saldoCartola": -4.97021484375,
+      "posicao": 13
     },
     {
       "nome": "Tabajara de Inhaua PB7",
@@ -138,42 +149,31 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 39.73,
-      "cartolaSofrido": 55.71,
-      "saldoCartola": -15.980000000000004,
-      "posicao": 13
-    },
-    {
-      "nome": "PUXE FC",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 38.36,
-      "cartolaSofrido": 52.81,
-      "saldoCartola": -14.450000000000005,
+      "totalCartola": 66.330078125,
+      "cartolaSofrido": 81.4599609375,
+      "saldoCartola": -15.1298828125,
       "posicao": 14
     },
     {
-      "nome": "FBC Colorado",
+      "nome": "Dom Camillo68",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 38.36,
-      "cartolaSofrido": 53.26,
-      "saldoCartola": -14.9,
+      "totalCartola": 64.91015625,
+      "cartolaSofrido": 70.81005859375,
+      "saldoCartola": -5.89990234375,
       "posicao": 15
     },
     {
-      "nome": "Noah A 10",
+      "nome": "Real SCI",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 37.94,
-      "cartolaSofrido": 44.86,
-      "saldoCartola": -6.920000000000002,
+      "totalCartola": 63.9599609375,
+      "cartolaSofrido": 69.39013671875,
+      "saldoCartola": -5.43017578125,
       "posicao": 16
     },
     {
@@ -182,9 +182,9 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 31.76,
-      "cartolaSofrido": 47.36,
-      "saldoCartola": -15.599999999999998,
+      "totalCartola": 62.56005859375,
+      "cartolaSofrido": 74.41015625,
+      "saldoCartola": -11.85009765625,
       "posicao": 17
     },
     {
@@ -193,10 +193,21 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 29.86,
-      "cartolaSofrido": 56.16,
-      "saldoCartola": -26.3,
+      "totalCartola": 62.06005859375,
+      "cartolaSofrido": 73.35986328125,
+      "saldoCartola": -11.2998046875,
       "posicao": 18
+    },
+    {
+      "nome": "FBC Colorado",
+      "pontos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 59.659912109375,
+      "cartolaSofrido": 76.06005859375,
+      "saldoCartola": -16.400146484375,
+      "posicao": 19
     },
     {
       "nome": "Gremiomaniasm",
@@ -204,20 +215,9 @@ const classificacaoSerieB = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 29.76,
-      "cartolaSofrido": 37.81,
-      "saldoCartola": -8.05,
-      "posicao": 19
-    },
-    {
-      "nome": "Dom Camillo68",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 23.4,
-      "cartolaSofrido": 45.26,
-      "saldoCartola": -21.86,
+      "totalCartola": 53.260009765625,
+      "cartolaSofrido": 70.35986328125,
+      "saldoCartola": -17.099853515625,
       "posicao": 20
     }
   ]
